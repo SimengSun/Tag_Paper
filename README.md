@@ -1,4 +1,4 @@
-# Tag_Paper
+# Tag Paper
 
 Name disambiguation system prototype for Kejso.com, a Chinese scientific resource search engine.
 
